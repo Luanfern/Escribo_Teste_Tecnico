@@ -16,7 +16,7 @@
 
 <hr>
 
-<trong>Para rodar o projeto JS o computador precisará de um navegador.</strong>
+<strong>Para rodar o projeto JS o computador precisará de um navegador.</strong>
 1. Abra o index.html.
 2. O botão na página possibilitará de realizar o processo novamente sem a necessidade de recarregar a página.
 <img src="https://user-images.githubusercontent.com/51713644/149808382-c581bee7-5e43-4d61-b03e-7e7abfbd3f91.png">
